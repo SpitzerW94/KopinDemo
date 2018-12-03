@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">KopinDemo</string>
+
+    <string name="toast_button">[ show toast ]</string>
+    <string name="dialog_button">[ confirm dialog ]</string>
+    <string name="colour_button">change mode</string>
+
+    <string name="dialog_title">Dialog Question</string>
+    <string name="dialog_msg">Are you going to hire me?</string>
+    <string name="dialog_button1">Yes</string>
+    <string name="dialog_button2">Si</string>
+
+    <string name="toast_msg">Short informational message</string>
+</resources>
